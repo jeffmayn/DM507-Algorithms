@@ -2,7 +2,7 @@ public class PQHeap implements PQ {
     /*
     By:
             Jeff Gyldenbrand - jegyl16
-            Mathias Helsengren - mahel16
+            Bjarke Holst Kreiberg - bjkre16
     */
 
     /*
