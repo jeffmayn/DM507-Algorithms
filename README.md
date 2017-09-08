@@ -1,2 +1,2 @@
 # algoritmer2017
-DM507 Algoritmer og datastrukturer
+DM507 Algorithms and datastructures
